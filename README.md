@@ -16,7 +16,7 @@ My primary learning source is the videos provided by [TheCoderCoder](https://www
 If you'd like to get in touch or discuss further about learning Sass and BEM, you can reach me through:
 
 - Email: [ajagadditha@example.com](mailto:ajagadditha@example.com)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/jagadditha/)
+- LinkedIn: [jagadditha](https://www.linkedin.com/in/jagadditha/)
 - Instagram: [@jgdthaa](https://instagram.com/jgdthaa)
 
 ## License
