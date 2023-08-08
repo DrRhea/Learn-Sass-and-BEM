@@ -1,6 +1,6 @@
 # Learning Sass and BEM with Coder Coder
 
-![GitHub](https://img.shields.io/github/license/DrRhea/Learn-Sass-and-BEM/blob/main/LICENSE)]
+[![License](https://img.shields.io/github/license/DrRhea/Learn-Sass-and-BEM)](https://github.com/DrRhea/Learn-Sass-and-BEM)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DrRhea/Learn-Sass-and-BEM)
 ![GitHub followers](https://img.shields.io/github/followers/DrRhea?label=Follow&style=social)
 [![YouTube](https://img.shields.io/badge/YouTube-TheCoderCoder-red)](https://www.youtube.com/TheCoderCoder)
