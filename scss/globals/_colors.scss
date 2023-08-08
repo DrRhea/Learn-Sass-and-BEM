@@ -1,0 +1,15 @@
+:root {
+  --background: #111;
+  --text-color: #fff;
+}
+
+.magenta {
+  @extend .grid__widget;
+  background: rgb(249, 35, 249);
+}
+
+.cyan {
+  // @extend #{$widget};
+  @extend .grid__widget;
+  background: rgb(4, 221, 225);
+}

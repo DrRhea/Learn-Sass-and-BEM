@@ -1,0 +1,65 @@
+@use '../util'as u;
+
+%widget {
+  padding: u.rem(16);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto auto;
+  gap: u.rem(40);
+  // max-width: 1000px;
+  width: min(100% - u.rem(70), 1000px);
+  margin-inline: auto;
+
+  @include u.breakpoint-min(large) {
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: auto;
+    width: min(100% - u.rem(140), 1000px);
+  }
+
+  &__main,
+  &__sidebar {
+    padding: u.rem(40);
+  }
+
+  &__main {
+    background: rgb(41, 41, 255);
+
+    @include u.breakpoint-min(medium) {
+      background: rgb(1, 97, 1);
+    }
+
+    @include u.breakpoint-min(large) {
+      background: rgb(193, 127, 3);
+    }
+  }
+
+  &__sidebar {
+
+    @include u.breakpoint-max(medium) {
+      text-align: center;
+    }
+
+    @include u.breakpoint-max(small) {
+      text-align: right;
+    }
+  }
+
+  &__widget {
+    // $widget: &;
+    margin: u.rem(10) 0;
+
+/*     &.magenta {
+      @extend .grid__widget;
+      background: rgb(249, 35, 249);
+    }
+
+    &.cyan {
+      // @extend #{$widget};
+      @extend .grid__widget;
+      background: rgb(4, 221, 225);
+    } */
+  }
+}
