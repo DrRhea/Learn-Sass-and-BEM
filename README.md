@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/DrRhea/Learn-Sass-and-BEM)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DrRhea/Learn-Sass-and-BEM)
 ![GitHub followers](https://img.shields.io/github/followers/DrRhea?label=Follow&style=social)
-[![YouTube](https://img.shields.io/badge/YouTube-Coder%20Coder-red)](https://www.youtube.com/@TheCoderCode)
+[![YouTube](https://img.shields.io/badge/YouTube-Coder%20Coder-red)](https://www.youtube.com/c/CoderCoder)
 
 Welcome to my repository for learning Sass and BEM! This repository contains exercises, notes, and small projects that I've worked on as part of my journey to learn Sass (Sassy CSS) and the BEM (Block Element Modifier) methodology, primarily following the learning resources provided by the YouTube channel Coder Coder.
 
